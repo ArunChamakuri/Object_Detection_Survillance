@@ -1,1 +1,5 @@
+#!/bin/bash
+# render-build.sh
+
+# Upgrade build tools
 pip install --upgrade pip setuptools wheel
